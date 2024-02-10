@@ -43,7 +43,6 @@ int main()
     bool isLeftMousePressed = false;
 
     sf::Glsl::Vec2 offset(0.0f, 0.0f);
-//
 
 
     while (window.isOpen())
