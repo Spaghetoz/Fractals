@@ -45,6 +45,7 @@ int main()
     sf::Glsl::Vec2 offset(0.0f, 0.0f);
 
 
+
     while (window.isOpen())
     {
         sf::Event event;
