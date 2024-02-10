@@ -1,9 +1,9 @@
 
 
-bin/*
-test
-lib/*
-imgui/*
-include/SFML
+!bin/*
+!test
+!lib/*
+!imgui/*
+!include/SFML
 
 .vscode
