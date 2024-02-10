@@ -28,3 +28,11 @@ This version was tested with the Mingw32 C++ compiler , SFML 2.6.1, ImGui 1.90.2
 10. Enjoy
 
 ## Some images
+
+### Julia fractal
+
+![Julia](images/julia.png)
+
+### Mandelbrot fractal
+
+![Mandelbrot](images/mandelbrot.png)
