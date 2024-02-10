@@ -58,7 +58,7 @@ int main()
                 
             }
         }
-        /*if(sf::Keyboard::isKeyPressed(sf::Keyboard::Up)) {
+        if(sf::Keyboard::isKeyPressed(sf::Keyboard::Up)) {
             if(zoom+zoomSpeed >= 0) {
                 zoom+=zoomSpeed;
             }
@@ -81,7 +81,7 @@ int main()
         }
         if(sf::Keyboard::isKeyPressed(sf::Keyboard::D)) {
             offset.x+=5;
-        }*/
+        }
 
 
         shader.setUniform("iterLimit", (float)iterLimit);

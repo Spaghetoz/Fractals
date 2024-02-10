@@ -24,7 +24,7 @@ This version was tested with the Mingw32 C++ compiler , SFML 2.6.1, ImGui 1.90.2
 6. Copy all the `.cpp` and `.h` files from `imgui-master` except `imgui_demo.cpp` into the `imgui` folder
 7. Same for `imgui-sfml-2.6.x` 
 8. Edit the `imconfig.h` file in the imgui folder by adding the line `#include "imconfig-SFML.h"` after the `#pragma once` line
-9. And then get into your favorite commandline tool, move into the `Fractals` folder and type `mingw32-make`
+9. And then get into your favorite Command line tool, move into the `Fractals` folder and type `mingw32-make`
 10. Enjoy
 
 ## Some images
@@ -36,3 +36,9 @@ This version was tested with the Mingw32 C++ compiler , SFML 2.6.1, ImGui 1.90.2
 ### Mandelbrot fractal
 
 ![Mandelbrot](images/mandelbrot.png)
+
+## Next features
+- [ ] Zoom and movement control 
+- [ ] Random Colors
+- [ ] Burning ship fractal
+- [ ] Newton fractal
